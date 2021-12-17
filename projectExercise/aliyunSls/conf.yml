@@ -1,0 +1,22 @@
+client:
+  endpoint: ""
+  accesskeyid: ""
+  accesskeysecret: ""
+  securitytoken: ""
+  useragent: ""
+  requesttimeout: 0s
+  retrytimeout: 0s
+projectname: ""
+logstorename: ""
+consumergroup:
+  enablecg: false
+  consumergroupname: ""
+  consumername: ""
+  inorder: false
+  cursorposition: ""
+  cursorstarttime: 0
+  consumercount: 0
+consumer:
+  enablec: false
+  cursorposition: ""
+  consumercount: 0
